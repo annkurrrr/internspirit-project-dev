@@ -20,3 +20,7 @@ Discovering event's according to your requirements and preferences, lack of netw
 4) Organizer tools : Suggest the event organizer the exact audience for their events with the use of AI.
 
 # Tech Stack :
+Frontend - Next.js with typescript
+Backend - Express.js, node.js
+Database - Supabase
+Version control - GitHub
